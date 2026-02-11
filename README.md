@@ -1,1 +1,20 @@
-# intern-dashboard
+intern-dashboard/
+  package.json
+  next.config.js
+  tailwind.config.js
+  postcss.config.js
+  styles/globals.css
+  lib/sheets.ts
+  lib/authz.ts
+  pages/_app.tsx
+  pages/index.tsx
+  pages/intern/[email].tsx
+  pages/weekly.tsx
+  pages/api/auth/[...nextauth].ts
+  pages/api/data/daily.ts
+  pages/api/data/intern.ts
+  pages/api/data/weekly.ts
+  components/Layout.tsx
+  components/StatusBadge.tsx
+  components/SummaryCards.tsx
+  components/DataTable.tsx
